@@ -9,6 +9,27 @@ I'm a Computer Engineering student at National University – Manila with a pass
 
 ## 🚀 Projects
 
+### [Color Sorter Robot using Robotic Arm](https://github.com/Soompa911/ColorSorterRobot)
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hardware-555555?style=for-the-badge&logo=arduino&logoColor=white"/>
+
+An innovative automation project featuring:
+- 🤖 Three-jointed robotic arm for precise object manipulation
+- 🎨 Advanced color recognition system (TCS3472 sensor)
+- 📊 Real-time monitoring via LCD display
+- 🔄 Automated sorting process
+- ⚡ Integrated motor and servo control
+
+**Key Features:**
+- Automated color detection and sorting
+- Real-time process monitoring
+- High-precision servo control
+- Safety monitoring system
+- >95% sorting accuracy
+
+[View Project →]([https://github.com/Soompa911/ColorSorterRobot](https://github.com/Soompa911/Color_Sorting_Robot))
+
 ### [Student Registration System](https://github.com/Soompa911/StudentRegistration)
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
