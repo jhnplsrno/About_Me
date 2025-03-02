@@ -28,7 +28,7 @@ An innovative automation project featuring:
 - Safety monitoring system
 - >95% sorting accuracy
 
-[View Project →]([https://github.com/Soompa911/ColorSorterRobot](https://github.com/Soompa911/Color_Sorting_Robot))
+[View Project →](https://github.com/Soompa911/Color_Sorting_Robot)
 
 ### [Student Registration System](https://github.com/Soompa911/StudentRegistration)
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
