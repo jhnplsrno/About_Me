@@ -79,12 +79,3 @@ languages = ['C++', 'Python', 'HTML', 'CSS', 'Java', 'C']
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
-
----
-
-<div align="center">
-
-**Last Updated: 2025-03-02 00:04:06 UTC**  
-**Profile by: [Soompa911](https://github.com/Soompa911)**
-
-</div>
