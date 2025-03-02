@@ -7,6 +7,29 @@
 
 I'm a Computer Engineering student at National University – Manila with a passion for technological innovation and problem-solving. As a Dean's Lister (AY 2022-2023), I combine strong academic performance with practical technical expertise in various domains of computer engineering.
 
+## 🚀 Projects
+
+### [Student Registration System](https://github.com/Soompa911/StudentRegistration)
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swing-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+
+A comprehensive academic registration system featuring:
+- 🖥️ Java Swing GUI interface
+- 🗄️ PostgreSQL database integration
+- 👥 Multi-level user access (Admin/Student)
+- 📝 Dynamic program selection
+- 🔐 Secure data management
+
+**Key Features:**
+- Student information management
+- Academic program tracking
+- Administrative dashboard
+- Real-time data validation
+- Automated database operations
+
+[View Project →](https://github.com/Soompa911/StudentRegistration)
+
 ### 🎓 Education
 - **Bachelor of Science in Computer Engineering** (2021 - Present)
   - National University – Manila
@@ -55,4 +78,13 @@ languages = ['C++', 'Python', 'HTML', 'CSS', 'Java', 'C']
   <a href="mailto:Jhnplsrno2004@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+</div>
+
+---
+
+<div align="center">
+
+**Last Updated: 2025-03-02 00:04:06 UTC**  
+**Profile by: [Soompa911](https://github.com/Soompa911)**
+
 </div>
