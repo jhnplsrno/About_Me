@@ -9,7 +9,7 @@ I'm a Computer Engineering student at National University – Manila with a pass
 
 ## 🚀 Projects
 
-### [Color Sorter Robot using Robotic Arm](https://github.com/Soompa911/ColorSorterRobot)
+### [Color Sorter Robot using Robotic Arm](https://github.com/jhnplsrno/ColorSorterRobot)
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hardware-555555?style=for-the-badge&logo=arduino&logoColor=white"/>
@@ -28,9 +28,9 @@ An innovative automation project featuring:
 - Safety monitoring system
 - >95% sorting accuracy
 
-[View Project →](https://github.com/Soompa911/Color_Sorting_Robot)
+[View Project →](https://github.com/jhnplsrno/Color_Sorting_Robot)
 
-### [Student Registration System](https://github.com/Soompa911/StudentRegistration)
+### [Student Registration System](https://github.com/jhnplsrno/StudentRegistration)
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Swing-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -49,7 +49,7 @@ A comprehensive academic registration system featuring:
 - Real-time data validation
 - Automated database operations
 
-[View Project →](https://github.com/Soompa911/StudentRegistration)
+[View Project →](https://github.com/jhnplsrno/StudentRegistration)
 
 ### 🎓 Education
 - **Bachelor of Science in Computer Engineering** (2021 - Present)
