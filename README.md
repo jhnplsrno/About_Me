@@ -1,6 +1,6 @@
 <div align="center">
   <h1>John Paul Soriano</h1>
-  <h3>Computer Engineeri| Programmer | IoT Enthusiast | Problem Solver</h3>
+  <h3>Computer Engineer | Programmer | IoT Enthusiast | Problem Solver</h3>
 </div>
 
 ## 👨‍💻 About Me
